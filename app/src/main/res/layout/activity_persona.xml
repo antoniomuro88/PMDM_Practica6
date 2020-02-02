@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fondo"
+    tools:context=".Persona">
+
+    <TableLayout
+        android:id="@+id/tbl1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:backgroundTint="#BD64F3"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:backgroundTint="#BD64F3"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/p1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="TODO"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/p1" />
+
+            <ImageView
+                android:id="@+id/p2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="TODO"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/p2" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/p3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="TODO"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/p3" />
+
+            <ImageView
+                android:id="@+id/p4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="TODO"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/p4" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="198dp"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/p5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="TODO"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/p5" />
+
+            <ImageView
+                android:id="@+id/p6"
+                android:layout_width="189dp"
+                android:layout_height="213dp"
+                android:contentDescription="TODO"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/p6" />
+        </TableRow>
+
+    </TableLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

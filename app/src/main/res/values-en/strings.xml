@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PMDM_Practica6</string>
+    <string name="BlocDeNotas">Notepad</string>
+    <string name="EditarPersona">Edit Person</string>
+    <string name="MenuLlamada">Call</string>
+    <string name="Personas">Person</string>
+    <string name="Texto_inicio">Click image</string>
+    <string name="btnCancelar">Cancel</string>
+    <string name="btnEditar">Edit</string>
+    <string name="eligeP">Select a person</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblNumTel">Phone number</string>
+    <string name="lblPersona">Person</string>
+    <string name="menuEditar">Edit</string>
+    <string name="menuEmail">Send email</string>
+    <string name="menuGuardar">Save</string>
+    <string name="p1">Person 1</string>
+    <string name="p2">Person 2</string>
+    <string name="p3">Person 3</string>
+    <string name="p4">Person 4</string>
+    <string name="p5">Person 5</string>
+    <string name="p6">Person 6</string>
+    <string name="txtEmail">Insert new email:</string>
+    <string name="txtNumTel">Insert new phone number:</string>
+    <string name="MenuBloc">Notepad</string>
+    <string name="menuPersona">Person</string>
+</resources>

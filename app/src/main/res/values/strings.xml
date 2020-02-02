@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PMDM_Practica6</string>
+
+    <string-array name="arrayPersonas">
+        <item>@string/eligeP</item>
+        <item>@string/p1</item>
+        <item>@string/p2</item>
+        <item>@string/p3</item>
+        <item>@string/p4</item>
+        <item>@string/p5</item>
+        <item>@string/p6</item>
+    </string-array>
+
+        <string name="eligeP">Seleccione una persona...</string>
+        <string name="p1">Persona 1</string>
+        <string name="p2">Persona 2</string>
+        <string name="p3">Persona 3</string>
+        <string name="p4">Persona 4</string>
+        <string name="p5">Persona 5</string>
+        <string name="p6">Persona 6</string>
+
+        <string name="Texto_inicio">Haz click en una imagen</string>
+        <string name="menuEditar">Editar</string>
+        <string name="menuGuardar">Guardar</string>
+        <string name="MenuLlamada">LLamar</string>
+        <string name="menuEmail">Mandar Email</string>
+        <string name="lblEmail">Email</string>
+        <string name="txtEmail">Introduzca un email nuevo:</string>
+        <string name="lblPersona">Persona</string>
+        <string name="lblNumTel">Número de Teléfono</string>
+        <string name="txtNumTel">Introduzca el número nuevo:</string>
+        <string name="btnEditar">Editar</string>
+        <string name="btnCancelar">Cancelar</string>
+        <string name="BlocDeNotas">Bloc de Notas</string>
+        <string name="Personas">Persona</string>
+        <string name="EditarPersona">Editar Persona</string>
+    <string name="menuPersona">Persona</string>
+    <string name="MenuBloc">Bloc de Notas</string>
+</resources>
